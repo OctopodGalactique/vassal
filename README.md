@@ -1,6 +1,6 @@
 <img src="vassal-app/src/main/resources/icons/scalable/VASSAL.svg" width="100px" align="right" />
 
-# VASSAL
+# VASSAL (Experimental fork v0.1)
 > The open-source boardgame engine
 
 [![Build Status](https://github.com/vassalengine/vassal/actions/workflows/package.yml/badge.svg)](https://github.com/vassalengine/vassal/actions)
